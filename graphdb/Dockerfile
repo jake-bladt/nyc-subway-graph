@@ -1,2 +1,2 @@
-FROM Neo4j:2.3
+FROM neo4j:2.3
 MAINTAINER jake@jakebladt.com
