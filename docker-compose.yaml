@@ -5,4 +5,6 @@ services:
       context: ./graphdb
       dockerfile: Dockerfile
     image: graphdb
-    
+    ports:
+      - ""
+      - ""
